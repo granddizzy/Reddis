@@ -13,7 +13,6 @@ mysql — 10, postgresql — 20, mongodb — 30, redis — 40.
 * Удалите из структуры элемент с максимальным значением.
 * Выведите место в рейтинге для mysql.
 
-
 ![task2](./img/Screenshot_1424.png)
 
 * ZADD ratings 10 mysql
