@@ -15,6 +15,8 @@ mysql — 10, postgresql — 20, mongodb — 30, redis — 40.
 
 ![task2](./img/Screenshot_1424.png)
 
+## Команды
+
 * ZADD ratings 10 mysql
 * ZADD ratings 20 postgresql
 * ZADD ratings 30 mongodb

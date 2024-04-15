@@ -12,6 +12,8 @@
 
 ![task1](./img/Screenshot_1421.png)
 
+## Команды
+
 * SET index "index precalculated content" EX 600
 * EXISTS index
 * TTL index
